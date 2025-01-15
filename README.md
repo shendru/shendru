@@ -1,4 +1,5 @@
-# Andrew Earl "Shendru"
+# **Andrew Earl** "Shendru"
+<text style="color: red">ERROR</text>
 
 - 👋 Hi, I’m @shendru-andrew
 - 👀 I’m interested in ...
