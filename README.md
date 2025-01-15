@@ -3,7 +3,7 @@
 ## 💻 Dev Name: Shendru
 
 <h3 align="center">👦 What you need to know about me:</h3>
-Hi, I'm Andrew, aka Shendru. I'm a passionate programmer with expertise in <b>Software Development</b>, <b>Web Development</b>, and <b>Game Development</b>. I love exploring new technologies and turning ideas into impactful digital solutions.
+I'm Andrew Earl, aka Shendru. I'm a passionate programmer with expertise in <b>Software Development</b>, <b>Web Development</b>, and <b>Game Development</b>. I love exploring new technologies and turning ideas into impactful digital solutions.
 
 <!---
 shendru-andrew/shendru-andrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
