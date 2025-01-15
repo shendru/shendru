@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Andrew!
-## aka Shendru
+## Developer Name: Shendru
 What you need to know about me:
 
 - 👋 Hi, I’m @shendru-andrew
