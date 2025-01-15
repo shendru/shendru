@@ -1,5 +1,5 @@
-# **Andrew Earl** "Shendru"
-
+# **Andrew Earl**
+## Shendru
 What you need to know about me:
 
 - 👋 Hi, I’m @shendru-andrew
