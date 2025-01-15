@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Andrew!</h1>
 
-<h2 align="center">Developer Name: Shendru</h2>
+## Dev Name: Shendru
 ### What you need to know about me:
 
 - 👋 Hi, I’m @shendru-andrew
