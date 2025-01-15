@@ -3,7 +3,7 @@
 ## 💻 Dev Name: Shendru
 
 ### 👦 What you need to know about me:
-Hi, I'm Andrew, aka Shendru. I'm a passionate programmer with expertise in <b>Software Development</b>, Web Development, and Game Development. I love exploring new technologies and turning ideas into impactful digital solutions.
+Hi, I'm Andrew, aka Shendru. I'm a passionate programmer with expertise in <b>Software Development</b>, <b>Web Development</b>, and <b>Game Development</b>. I love exploring new technologies and turning ideas into impactful digital solutions.
 
 
 - 👋 Hi, I’m @shendru-andrew
