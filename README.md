@@ -1,11 +1,8 @@
-<h1 align="center">👋 Hi, I'm Andrew!</h1>
+<h1 align="center">👋 Hi!</h1>
 
 ## 💻 Dev Name: Shendru
 
-<h3 align="center">👦 What you need to know about me:</h3>
-I'm Andrew Earl, aka Shendru. I'm a passionate programmer with expertise in <b>Software Development</b>, <b>Web Development</b>, and <b>Game Development</b>. I love exploring new technologies and turning ideas into impactful digital solutions.
-
-# 💫 About Me:
+<h1 align="center">👦 What you need to know about me:</h1>
 Hi, I'm Andrew, aka Shendru! I'm a passionate programmer with expertise in Software Development, Web Development, and Game Development. I love exploring new technologies and turning ideas into real-world solutions.
 
 
