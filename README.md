@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi!</h1>
 
-## 👤 Dev Name: Shendru
+<h2 align="center"> 👤 Dev Name: Shendru</h2>
 
 # 👦 What you need to know about me:
 Hi, I'm Andrew, aka Shendru! I'm a passionate programmer with expertise in Software Development, Web Development, and Game Development. I love exploring new technologies and turning ideas into real-world solutions.
